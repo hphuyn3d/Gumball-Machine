@@ -1,3 +1,5 @@
+package src;
+
 public class GumballMachineTest {
 	public static void main(String args[]) {
 		GumballMachine myMachine = new GumballMachine(5);
